@@ -5,7 +5,16 @@ class SquareMetersRepository {
   async get() {
     logger.info('SquareMetersRepository');
     try {
-      await SquareMetersModel.findOne();
+      return await SquareMetersModel.findOne();
+    } catch (e) {
+      console.log(e);
+    }
+  }
+
+  async create() {
+    logger.info('SquareMetersRepository');
+    try {
+      return await SquareMetersModel.create({ value: '10' });
     } catch (e) {
       console.log(e);
     }

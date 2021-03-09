@@ -31,6 +31,7 @@
           "no-console":"off",
           "prettier/prettier": "error",
           "class-methods-use-this":"off",
-          "no-return-await":"off"
+          "no-return-await":"off",
+          "consistent-return":"off"
     }
 }
