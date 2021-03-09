@@ -4,3 +4,51 @@
 2021-03-09T15:10:59.514Z [app] info: SquareMetersController
 2021-03-09T15:10:59.516Z [app] info: SquareMetersRepository
 2021-03-09T15:10:59.584Z [app] info: Response: 10
+2021-03-09T16:43:08.370Z [app] info: SquareMetersController
+2021-03-09T16:43:08.373Z [app] info: SquareMetersRepository
+2021-03-09T16:43:08.717Z [app] info: Error: SequelizeHostNotFoundError: getaddrinfo ENOTFOUND ec2-52-7-115-250.compute-1.amazonaws.com:5432
+2021-03-09T16:45:19.835Z [app] info: SquareMetersController
+2021-03-09T16:45:19.839Z [app] info: SquareMetersRepository
+2021-03-09T16:45:19.903Z [app] info: Error: SequelizeConnectionError: password authentication failed for user "renan"
+2021-03-09T16:46:00.895Z [app] info: SquareMetersController
+2021-03-09T16:46:00.897Z [app] info: SquareMetersRepository
+2021-03-09T16:46:00.937Z [app] info: Error: SequelizeConnectionError: password authentication failed for user "renan"
+2021-03-09T16:46:02.684Z [app] info: SquareMetersController
+2021-03-09T16:46:02.684Z [app] info: SquareMetersRepository
+2021-03-09T16:46:02.697Z [app] info: Error: SequelizeConnectionError: password authentication failed for user "renan"
+2021-03-09T16:46:24.407Z [app] info: SquareMetersController
+2021-03-09T16:46:24.408Z [app] info: SquareMetersRepository
+2021-03-09T16:46:24.418Z [app] info: Error: SequelizeConnectionError: password authentication failed for user "renan"
+2021-03-09T16:46:38.000Z [app] info: SquareMetersController
+2021-03-09T16:46:38.005Z [app] info: SquareMetersRepository
+2021-03-09T16:46:38.046Z [app] info: Error: SequelizeConnectionError: password authentication failed for user "akdghauyozmsmb"
+2021-03-09T16:46:55.316Z [app] info: SquareMetersController
+2021-03-09T16:46:55.318Z [app] info: SquareMetersRepository
+2021-03-09T16:46:55.535Z [app] info: Error: SequelizeHostNotFoundError: getaddrinfo ENOTFOUND ec2-52-7-115-250.compute-1.amazonaws.com:5432
+2021-03-09T16:47:03.240Z [app] info: SquareMetersController
+2021-03-09T16:47:03.243Z [app] info: SquareMetersRepository
+2021-03-09T16:47:04.651Z [app] info: Error: SequelizeConnectionError: no pg_hba.conf entry for host "186.205.6.115", user "akdghauyozmsmb", database "deime52hq0rt0v", SSL off
+2021-03-09T16:47:29.470Z [app] info: SquareMetersController
+2021-03-09T16:47:29.473Z [app] info: SquareMetersRepository
+2021-03-09T16:47:30.352Z [app] info: Error: SequelizeConnectionError: no pg_hba.conf entry for host "186.205.6.115", user "akdghauyozmsmb", database "deime52hq0rt0v", SSL off
+2021-03-09T16:47:45.584Z [app] info: SquareMetersController
+2021-03-09T16:47:45.588Z [app] info: SquareMetersRepository
+2021-03-09T16:47:45.626Z [app] info: Error: SequelizeConnectionError: password authentication failed for user "renan"
+2021-03-09T16:49:54.068Z [app] info: SquareMetersController
+2021-03-09T16:49:54.072Z [app] info: SquareMetersRepository
+2021-03-09T16:49:55.046Z [app] info: Error: SequelizeConnectionError: no pg_hba.conf entry for host "186.205.6.115", user "akdghauyozmsmb", database "deime52hq0rt0v", SSL off
+2021-03-09T16:57:03.290Z [app] info: SquareMetersController
+2021-03-09T16:57:03.293Z [app] info: SquareMetersRepository
+2021-03-09T16:57:04.509Z [app] info: Error: SequelizeConnectionError: no pg_hba.conf entry for host "186.205.6.115", user "akdghauyozmsmb", database "deime52hq0rt0v", SSL off
+2021-03-09T17:02:24.821Z [app] info: SquareMetersController
+2021-03-09T17:02:24.825Z [app] info: SquareMetersRepository
+2021-03-09T17:02:26.149Z [app] info: Error: SequelizeConnectionError: no pg_hba.conf entry for host "186.205.6.115", user "akdghauyozmsmb", database "deime52hq0rt0v", SSL off
+2021-03-09T17:03:59.308Z [app] info: SquareMetersController
+2021-03-09T17:03:59.312Z [app] info: SquareMetersRepository
+2021-03-09T17:04:00.176Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T17:09:05.196Z [app] info: SquareMetersController
+2021-03-09T17:09:05.198Z [app] info: SquareMetersRepository
+2021-03-09T17:09:15.245Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T17:13:57.187Z [app] info: SquareMetersController
+2021-03-09T17:13:57.189Z [app] info: SquareMetersRepository
+2021-03-09T17:13:58.072Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
