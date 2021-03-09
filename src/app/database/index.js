@@ -1,10 +1,9 @@
-const mongoose = require('mongoose');
+const Sequelize = require('sequelize');
 const dbConfig = require('../config/database');
+const SquareMeters = require('../models/SquareMeters');
 
-const { path, options } = dbConfig.mongo;
+const db = new Sequelize(dbConfig);
 
-const db = mongoose
-  .connect(path, options)
-  .then(() => console.log(`✔ database is running at ${path}`));
+SquareMeters.init(db);
 
 module.exports = db;

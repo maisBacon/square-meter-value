@@ -1,7 +1,7 @@
 const Express = require('express');
 const cors = require('cors');
 const routes = require('./routes');
-require('./config/database');
+require('./database');
 require('./bootstrap');
 
 class Main {

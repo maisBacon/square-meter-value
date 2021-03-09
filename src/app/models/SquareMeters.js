@@ -1,13 +1,16 @@
-const mongoose = require('mongoose');
+const { Model, DataTypes } = require('sequelize');
 
-const SquareMetersModel = mongoose.model(
-  'square_meters',
-  new mongoose.Schema({
-    value: {
-      type: String,
-      required: true,
-    },
-  }),
-);
+class Meters extends Model {
+  static init(sequelize) {
+    super.init(
+      {
+        value: DataTypes.STRING,
+      },
+      {
+        sequelize,
+      },
+    );
+  }
+}
 
-module.exports = SquareMetersModel;
+module.exports = Meters;

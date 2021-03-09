@@ -1,3 +1,3 @@
 const app = require('./main');
 
-app.listen(process.env.PORT || 3333);
+app.listen(process.env.URL || 3333);

@@ -4,8 +4,7 @@ const logger = require('../utils/logger');
 class SquareMetersRepository {
   async get() {
     logger.info('SquareMetersRepository');
-    const [response] = await SquareMetersModel.find();
-    return response.value;
+    return await SquareMetersModel.findOne();
   }
 }
 
