@@ -430,3 +430,25 @@
 2021-03-12T01:23:54.763Z [app] info: SquareMetersRepository
 2021-03-12T01:23:54.767Z [app] info: SquareMetersRepository
 2021-03-12T01:23:54.767Z [app] info: Response: 10
+2021-03-12T01:37:41.217Z [app] info: SquareMetersController
+2021-03-12T01:37:41.219Z [app] info: SquareMetersRepository
+2021-03-12T01:37:41.258Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-12T01:37:48.384Z [app] info: SquareMetersController
+2021-03-12T01:37:48.385Z [app] info: SquareMetersRepository
+2021-03-12T01:37:48.391Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-12T01:37:54.046Z [app] info: SquareMetersController
+2021-03-12T01:37:54.048Z [app] info: SquareMetersRepository
+2021-03-12T01:37:54.124Z [app] info: SquareMetersRepository
+2021-03-12T01:37:54.125Z [app] info: Response: 10
+2021-03-12T01:38:02.114Z [app] info: SquareMetersController
+2021-03-12T01:38:02.116Z [app] info: SquareMetersRepository
+2021-03-12T01:38:02.194Z [app] info: SquareMetersRepository
+2021-03-12T01:38:02.194Z [app] info: Response: 10
+2021-03-12T01:38:03.058Z [app] info: SquareMetersController
+2021-03-12T01:38:03.058Z [app] info: SquareMetersRepository
+2021-03-12T01:38:03.062Z [app] info: SquareMetersRepository
+2021-03-12T01:38:03.062Z [app] info: Response: 10
+2021-03-12T01:38:04.078Z [app] info: SquareMetersController
+2021-03-12T01:38:04.078Z [app] info: SquareMetersRepository
+2021-03-12T01:38:04.081Z [app] info: SquareMetersRepository
+2021-03-12T01:38:04.082Z [app] info: Response: 10

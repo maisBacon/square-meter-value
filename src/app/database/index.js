@@ -5,6 +5,7 @@ require('../bootstrap');
 
 const db = new Sequelize(url, {
   define,
+  ssl: true,
 });
 
 SquareMeters.init(db);
