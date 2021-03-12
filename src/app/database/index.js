@@ -5,7 +5,12 @@ require('../bootstrap');
 
 const db = new Sequelize(url, {
   define,
-  ssl: true,
+  dialectOptions: {
+    ssl: {
+      require: true, // This will help you. But you will see nwe error
+      rejectUnauthorized: false, // This line will fix new error
+    },
+  },
 });
 
 SquareMeters.init(db);

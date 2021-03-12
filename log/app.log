@@ -452,3 +452,6 @@
 2021-03-12T01:38:04.078Z [app] info: SquareMetersRepository
 2021-03-12T01:38:04.081Z [app] info: SquareMetersRepository
 2021-03-12T01:38:04.082Z [app] info: Response: 10
+2021-03-12T01:39:32.199Z [app] info: SquareMetersController
+2021-03-12T01:39:32.201Z [app] info: SquareMetersRepository
+2021-03-12T01:39:32.242Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
