@@ -5,7 +5,9 @@ class SquareMetersRepository {
   async get() {
     logger.info('SquareMetersRepository');
     try {
-      return await SquareMetersModel.findOne();
+      const res = await SquareMetersModel.findOne();
+      logger.info('SquareMetersRepository', res.value);
+      return res;
     } catch (e) {
       console.log(e);
     }
@@ -14,7 +16,9 @@ class SquareMetersRepository {
   async create() {
     logger.info('SquareMetersRepository');
     try {
-      return await SquareMetersModel.create({ value: '10' });
+      const res = await SquareMetersModel.create({ value: 10 });
+      logger.info('SquareMetersRepository', res.value);
+      return res;
     } catch (e) {
       console.log(e);
     }

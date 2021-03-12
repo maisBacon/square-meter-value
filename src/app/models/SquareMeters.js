@@ -7,6 +7,9 @@ class Meters extends Model {
         value: DataTypes.STRING,
       },
       {
+        modelName: 'meters',
+        freezeTableName: true,
+        tableName: 'meters',
         sequelize,
       },
     );

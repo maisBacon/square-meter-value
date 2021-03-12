@@ -25,3 +25,400 @@
 2021-03-09T19:43:24.659Z [app] info: SquareMetersController
 2021-03-09T19:43:24.662Z [app] info: SquareMetersRepository
 2021-03-09T19:43:24.700Z [app] info: Response: 10
+2021-03-09T20:26:15.274Z [app] info: SquareMetersController
+2021-03-09T20:26:15.276Z [app] info: SquareMetersRepository
+2021-03-09T20:26:15.341Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T20:30:27.518Z [app] info: SquareMetersController
+2021-03-09T20:30:27.521Z [app] info: SquareMetersRepository
+2021-03-09T20:30:27.567Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T21:36:00.106Z [app] info: SquareMetersController
+2021-03-09T21:36:00.109Z [app] info: SquareMetersRepository
+2021-03-09T21:36:00.159Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T21:45:27.259Z [app] info: SquareMetersController
+2021-03-09T21:45:27.262Z [app] info: SquareMetersRepository
+2021-03-09T21:45:27.417Z [app] info: Response: 10
+2021-03-09T21:48:04.271Z [app] info: SquareMetersController
+2021-03-09T21:48:04.274Z [app] info: SquareMetersRepository
+2021-03-09T21:48:04.321Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T21:48:06.257Z [app] info: SquareMetersController
+2021-03-09T21:48:06.257Z [app] info: SquareMetersRepository
+2021-03-09T21:48:06.271Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T21:49:03.869Z [app] info: SquareMetersController
+2021-03-09T21:49:03.871Z [app] info: SquareMetersRepository
+2021-03-09T21:49:03.912Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T21:50:18.822Z [app] info: SquareMetersController
+2021-03-09T21:50:18.825Z [app] info: SquareMetersRepository
+2021-03-09T21:50:18.902Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T21:50:49.457Z [app] info: SquareMetersController
+2021-03-09T21:50:49.464Z [app] info: SquareMetersRepository
+2021-03-09T21:50:49.546Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T21:51:31.103Z [app] info: SquareMetersController
+2021-03-09T21:51:31.106Z [app] info: SquareMetersRepository
+2021-03-09T21:51:31.182Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T21:57:20.900Z [app] info: SquareMetersController
+2021-03-09T21:57:20.903Z [app] info: SquareMetersRepository
+2021-03-09T21:57:20.973Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T21:58:08.069Z [app] info: SquareMetersController
+2021-03-09T21:58:08.072Z [app] info: SquareMetersRepository
+2021-03-09T21:58:08.117Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T22:00:35.855Z [app] info: SquareMetersController
+2021-03-09T22:00:35.858Z [app] info: SquareMetersRepository
+2021-03-09T22:00:35.967Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T22:01:36.069Z [app] info: SquareMetersController
+2021-03-09T22:01:36.072Z [app] info: SquareMetersRepository
+2021-03-09T22:01:36.142Z [app] info: SquareMetersRepository
+2021-03-09T22:01:36.142Z [app] info: Response: 10
+2021-03-09T22:01:48.627Z [app] info: SquareMetersController
+2021-03-09T22:01:48.627Z [app] info: SquareMetersRepository
+2021-03-09T22:01:48.643Z [app] info: SquareMetersRepository
+2021-03-09T22:01:48.643Z [app] info: Response: 10
+2021-03-09T22:02:37.253Z [app] info: SquareMetersController
+2021-03-09T22:02:37.255Z [app] info: SquareMetersRepository
+2021-03-09T22:02:37.526Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T22:02:56.084Z [app] info: SquareMetersController
+2021-03-09T22:02:56.087Z [app] info: SquareMetersRepository
+2021-03-09T22:02:56.158Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T22:03:25.622Z [app] info: SquareMetersController
+2021-03-09T22:03:25.625Z [app] info: SquareMetersRepository
+2021-03-09T22:03:25.716Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T22:05:05.778Z [app] info: SquareMetersController
+2021-03-09T22:05:05.783Z [app] info: SquareMetersRepository
+2021-03-09T22:05:05.876Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T22:05:13.836Z [app] info: SquareMetersController
+2021-03-09T22:05:13.836Z [app] info: SquareMetersRepository
+2021-03-09T22:05:13.850Z [app] info: Response: undefined
+2021-03-09T22:05:18.343Z [app] info: SquareMetersController
+2021-03-09T22:05:18.343Z [app] info: SquareMetersRepository
+2021-03-09T22:05:18.347Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T22:06:40.003Z [app] info: SquareMetersController
+2021-03-09T22:06:40.005Z [app] info: SquareMetersRepository
+2021-03-09T22:06:40.081Z [app] info: Response: undefined
+2021-03-09T22:07:58.386Z [app] info: SquareMetersController
+2021-03-09T22:07:58.389Z [app] info: SquareMetersRepository
+2021-03-09T22:07:58.460Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T22:08:01.851Z [app] info: SquareMetersController
+2021-03-09T22:08:01.851Z [app] info: SquareMetersRepository
+2021-03-09T22:08:01.865Z [app] info: Response: undefined
+2021-03-09T22:08:23.538Z [app] info: SquareMetersController
+2021-03-09T22:08:23.541Z [app] info: SquareMetersRepository
+2021-03-09T22:08:23.617Z [app] info: Response: undefined
+2021-03-09T22:12:11.965Z [app] info: SquareMetersController
+2021-03-09T22:12:11.968Z [app] info: SquareMetersRepository
+2021-03-09T22:12:12.060Z [app] info: Response: undefined
+2021-03-09T22:13:30.921Z [app] info: SquareMetersController
+2021-03-09T22:13:30.924Z [app] info: SquareMetersRepository
+2021-03-09T22:13:30.995Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T22:13:49.766Z [app] info: SquareMetersController
+2021-03-09T22:13:49.768Z [app] info: SquareMetersRepository
+2021-03-09T22:13:49.842Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T22:13:54.385Z [app] info: SquareMetersController
+2021-03-09T22:13:54.385Z [app] info: SquareMetersRepository
+2021-03-09T22:13:54.389Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T22:14:04.020Z [app] info: SquareMetersController
+2021-03-09T22:14:04.021Z [app] info: SquareMetersRepository
+2021-03-09T22:14:04.039Z [app] info: SquareMetersRepository
+2021-03-09T22:14:04.040Z [app] info: Response: [object SequelizeInstance:Meters]
+2021-03-09T22:14:06.943Z [app] info: SquareMetersController
+2021-03-09T22:14:06.944Z [app] info: SquareMetersRepository
+2021-03-09T22:14:06.949Z [app] info: SquareMetersRepository
+2021-03-09T22:14:06.950Z [app] info: Response: 10
+2021-03-09T22:14:33.749Z [app] info: SquareMetersController
+2021-03-09T22:14:33.752Z [app] info: SquareMetersRepository
+2021-03-09T22:14:33.824Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T22:14:39.745Z [app] info: SquareMetersController
+2021-03-09T22:14:39.745Z [app] info: SquareMetersRepository
+2021-03-09T22:14:39.760Z [app] info: Response: undefined
+2021-03-09T22:14:45.510Z [app] info: SquareMetersController
+2021-03-09T22:14:45.510Z [app] info: SquareMetersRepository
+2021-03-09T22:14:45.517Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T22:22:11.289Z [app] info: SquareMetersController
+2021-03-09T22:22:11.291Z [app] info: SquareMetersRepository
+2021-03-09T22:22:11.333Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T22:22:15.556Z [app] info: SquareMetersController
+2021-03-09T22:22:15.557Z [app] info: SquareMetersRepository
+2021-03-09T22:22:15.580Z [app] info: Response: undefined
+2021-03-09T22:23:58.006Z [app] info: SquareMetersController
+2021-03-09T22:23:58.017Z [app] info: SquareMetersRepository
+2021-03-09T22:23:58.129Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T22:24:00.010Z [app] info: SquareMetersController
+2021-03-09T22:24:00.011Z [app] info: SquareMetersRepository
+2021-03-09T22:24:00.038Z [app] info: SquareMetersRepository
+2021-03-09T22:24:00.039Z [app] info: Response: [object SequelizeInstance:Meters]
+2021-03-09T22:24:02.178Z [app] info: SquareMetersController
+2021-03-09T22:24:02.178Z [app] info: SquareMetersRepository
+2021-03-09T22:24:02.184Z [app] info: SquareMetersRepository
+2021-03-09T22:24:02.184Z [app] info: Response: 10
+2021-03-09T22:27:54.707Z [app] info: SquareMetersController
+2021-03-09T22:27:54.710Z [app] info: SquareMetersRepository
+2021-03-09T22:27:54.716Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T22:28:12.741Z [app] info: SquareMetersController
+2021-03-09T22:28:12.745Z [app] info: SquareMetersRepository
+2021-03-09T22:28:12.816Z [app] info: SquareMetersRepository
+2021-03-09T22:28:12.816Z [app] info: Response: 10
+2021-03-09T22:30:45.918Z [app] info: SquareMetersController
+2021-03-09T22:30:45.920Z [app] info: SquareMetersRepository
+2021-03-09T22:30:45.989Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T22:31:04.330Z [app] info: SquareMetersController
+2021-03-09T22:31:04.332Z [app] info: SquareMetersRepository
+2021-03-09T22:31:04.407Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T22:31:39.136Z [app] info: SquareMetersController
+2021-03-09T22:31:39.138Z [app] info: SquareMetersRepository
+2021-03-09T22:31:39.210Z [app] info: SquareMetersRepository
+2021-03-09T22:31:39.211Z [app] info: Response: 10
+2021-03-09T22:32:54.365Z [app] info: SquareMetersController
+2021-03-09T22:32:54.367Z [app] info: SquareMetersRepository
+2021-03-09T22:32:54.449Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T22:33:08.931Z [app] info: SquareMetersController
+2021-03-09T22:33:08.932Z [app] info: SquareMetersRepository
+2021-03-09T22:33:08.951Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T22:33:15.307Z [app] info: SquareMetersController
+2021-03-09T22:33:15.308Z [app] info: SquareMetersRepository
+2021-03-09T22:33:15.312Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T22:33:26.285Z [app] info: SquareMetersController
+2021-03-09T22:33:26.286Z [app] info: SquareMetersRepository
+2021-03-09T22:33:26.313Z [app] info: Response: undefined
+2021-03-09T22:33:34.354Z [app] info: SquareMetersController
+2021-03-09T22:33:34.355Z [app] info: SquareMetersRepository
+2021-03-09T22:33:34.362Z [app] info: Response: undefined
+2021-03-09T22:34:12.156Z [app] info: SquareMetersController
+2021-03-09T22:34:12.159Z [app] info: SquareMetersRepository
+2021-03-09T22:34:12.234Z [app] info: Response: undefined
+2021-03-09T22:34:44.645Z [app] info: SquareMetersController
+2021-03-09T22:34:44.649Z [app] info: SquareMetersRepository
+2021-03-09T22:34:44.726Z [app] info: Response: undefined
+2021-03-09T22:36:18.205Z [app] info: SquareMetersController
+2021-03-09T22:36:18.207Z [app] info: SquareMetersRepository
+2021-03-09T22:36:18.287Z [app] info: Response: undefined
+2021-03-09T22:37:21.025Z [app] info: SquareMetersController
+2021-03-09T22:37:21.028Z [app] info: SquareMetersRepository
+2021-03-09T22:37:21.107Z [app] info: SquareMetersRepository
+2021-03-09T22:37:21.107Z [app] info: Response: [object SequelizeInstance:Meters]
+2021-03-09T22:56:23.274Z [app] info: SquareMetersController
+2021-03-09T22:56:23.277Z [app] info: SquareMetersRepository
+2021-03-09T22:56:23.318Z [app] info: SquareMetersRepository
+2021-03-09T22:56:23.318Z [app] info: Response: 10
+2021-03-09T22:57:18.501Z [app] info: SquareMetersController
+2021-03-09T22:57:18.505Z [app] info: SquareMetersRepository
+2021-03-09T22:57:18.595Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T22:59:07.908Z [app] info: SquareMetersController
+2021-03-09T22:59:07.912Z [app] info: SquareMetersRepository
+2021-03-09T22:59:07.992Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-09T22:59:11.580Z [app] info: SquareMetersController
+2021-03-09T22:59:11.581Z [app] info: SquareMetersRepository
+2021-03-09T22:59:11.599Z [app] info: Response: undefined
+2021-03-09T23:00:42.104Z [app] info: SquareMetersController
+2021-03-09T23:00:42.107Z [app] info: SquareMetersRepository
+2021-03-09T23:00:42.192Z [app] info: Response: undefined
+2021-03-09T23:01:38.024Z [app] info: SquareMetersController
+2021-03-09T23:01:38.027Z [app] info: SquareMetersRepository
+2021-03-09T23:01:38.122Z [app] info: Response: undefined
+2021-03-09T23:02:08.952Z [app] info: SquareMetersController
+2021-03-09T23:02:08.955Z [app] info: SquareMetersRepository
+2021-03-09T23:02:09.041Z [app] info: SquareMetersRepository
+2021-03-09T23:02:09.042Z [app] info: Response: [object SequelizeInstance:Meters]
+2021-03-09T23:02:32.468Z [app] info: SquareMetersController
+2021-03-09T23:02:32.469Z [app] info: SquareMetersRepository
+2021-03-09T23:02:32.495Z [app] info: SquareMetersRepository
+2021-03-09T23:02:32.495Z [app] info: Response: 10
+2021-03-09T23:03:32.068Z [app] info: SquareMetersController
+2021-03-09T23:03:32.068Z [app] info: SquareMetersRepository
+2021-03-09T23:03:32.083Z [app] info: SquareMetersRepository
+2021-03-09T23:03:32.083Z [app] info: Response: 10
+2021-03-11T23:55:44.472Z [app] info: SquareMetersController
+2021-03-11T23:55:44.474Z [app] info: SquareMetersRepository
+2021-03-11T23:55:44.573Z [app] info: SquareMetersRepository
+2021-03-11T23:55:44.573Z [app] info: Response: 10
+2021-03-11T23:57:06.100Z [app] info: SquareMetersController
+2021-03-11T23:57:06.103Z [app] info: SquareMetersRepository
+2021-03-11T23:57:06.146Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-11T23:57:36.923Z [app] info: SquareMetersController
+2021-03-11T23:57:36.927Z [app] info: SquareMetersRepository
+2021-03-11T23:57:36.971Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-12T00:00:37.554Z [app] info: SquareMetersController
+2021-03-12T00:00:37.558Z [app] info: SquareMetersRepository
+2021-03-12T00:00:37.668Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-12T00:01:09.823Z [app] info: SquareMetersController
+2021-03-12T00:01:09.826Z [app] info: SquareMetersRepository
+2021-03-12T00:01:09.930Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-12T00:01:49.180Z [app] info: SquareMetersController
+2021-03-12T00:01:49.184Z [app] info: SquareMetersRepository
+2021-03-12T00:01:49.262Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-12T00:02:04.226Z [app] info: SquareMetersController
+2021-03-12T00:02:04.227Z [app] info: SquareMetersRepository
+2021-03-12T00:02:04.249Z [app] info: Response: undefined
+2021-03-12T00:02:13.954Z [app] info: SquareMetersController
+2021-03-12T00:02:13.955Z [app] info: SquareMetersRepository
+2021-03-12T00:02:13.959Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-12T00:03:27.672Z [app] info: SquareMetersController
+2021-03-12T00:03:27.675Z [app] info: SquareMetersRepository
+2021-03-12T00:03:27.754Z [app] info: Response: undefined
+2021-03-12T00:04:16.627Z [app] info: SquareMetersController
+2021-03-12T00:04:16.630Z [app] info: SquareMetersRepository
+2021-03-12T00:04:16.710Z [app] info: Response: undefined
+2021-03-12T00:06:08.886Z [app] info: SquareMetersController
+2021-03-12T00:06:08.889Z [app] info: SquareMetersRepository
+2021-03-12T00:06:08.965Z [app] info: SquareMetersRepository
+2021-03-12T00:06:08.965Z [app] info: Response: [object SequelizeInstance:Meters]
+2021-03-12T00:12:03.307Z [app] info: SquareMetersController
+2021-03-12T00:12:03.309Z [app] info: SquareMetersRepository
+2021-03-12T00:12:03.386Z [app] info: Response: undefined
+2021-03-12T00:16:31.906Z [app] info: SquareMetersController
+2021-03-12T00:16:31.908Z [app] info: SquareMetersRepository
+2021-03-12T00:16:31.983Z [app] info: Response: undefined
+2021-03-12T00:18:58.159Z [app] info: SquareMetersController
+2021-03-12T00:18:58.162Z [app] info: SquareMetersRepository
+2021-03-12T00:18:58.245Z [app] info: Response: undefined
+2021-03-12T00:19:54.773Z [app] info: SquareMetersController
+2021-03-12T00:19:54.776Z [app] info: SquareMetersRepository
+2021-03-12T00:19:54.855Z [app] info: Response: undefined
+2021-03-12T00:19:57.710Z [app] info: SquareMetersController
+2021-03-12T00:19:57.710Z [app] info: SquareMetersRepository
+2021-03-12T00:19:57.721Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-12T00:23:11.287Z [app] info: SquareMetersController
+2021-03-12T00:23:11.290Z [app] info: SquareMetersRepository
+2021-03-12T00:23:11.358Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-12T00:23:14.850Z [app] info: SquareMetersController
+2021-03-12T00:23:14.850Z [app] info: SquareMetersRepository
+2021-03-12T00:23:14.864Z [app] info: Response: undefined
+2021-03-12T00:24:27.491Z [app] info: SquareMetersController
+2021-03-12T00:24:27.493Z [app] info: SquareMetersRepository
+2021-03-12T00:24:27.572Z [app] info: Response: undefined
+2021-03-12T00:25:07.593Z [app] info: SquareMetersController
+2021-03-12T00:25:07.594Z [app] info: SquareMetersRepository
+2021-03-12T00:25:07.614Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-12T00:27:23.785Z [app] info: SquareMetersController
+2021-03-12T00:27:23.788Z [app] info: SquareMetersRepository
+2021-03-12T00:27:23.856Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-12T00:28:28.311Z [app] info: SquareMetersController
+2021-03-12T00:28:28.315Z [app] info: SquareMetersRepository
+2021-03-12T00:28:28.387Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-12T00:30:35.330Z [app] info: SquareMetersController
+2021-03-12T00:30:35.334Z [app] info: SquareMetersRepository
+2021-03-12T00:30:35.413Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-12T00:31:06.064Z [app] info: SquareMetersController
+2021-03-12T00:31:06.068Z [app] info: SquareMetersRepository
+2021-03-12T00:31:06.142Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-12T00:31:14.591Z [app] info: SquareMetersController
+2021-03-12T00:31:14.592Z [app] info: SquareMetersRepository
+2021-03-12T00:31:14.613Z [app] info: SquareMetersRepository
+2021-03-12T00:31:14.613Z [app] info: Response: [object SequelizeInstance:meters]
+2021-03-12T00:31:58.942Z [app] info: SquareMetersController
+2021-03-12T00:31:58.944Z [app] info: SquareMetersRepository
+2021-03-12T00:31:59.043Z [app] info: Response: undefined
+2021-03-12T00:32:20.624Z [app] info: SquareMetersController
+2021-03-12T00:32:20.627Z [app] info: SquareMetersRepository
+2021-03-12T00:32:20.715Z [app] info: Response: undefined
+2021-03-12T00:33:05.429Z [app] info: SquareMetersController
+2021-03-12T00:33:05.432Z [app] info: SquareMetersRepository
+2021-03-12T00:33:05.507Z [app] info: SquareMetersRepository
+2021-03-12T00:33:05.507Z [app] info: Response: [object SequelizeInstance:meters]
+2021-03-12T00:33:51.050Z [app] info: SquareMetersController
+2021-03-12T00:33:51.053Z [app] info: SquareMetersRepository
+2021-03-12T00:33:51.128Z [app] info: SquareMetersRepository
+2021-03-12T00:33:51.129Z [app] info: Response: [object SequelizeInstance:meters]
+2021-03-12T00:35:01.271Z [app] info: SquareMetersController
+2021-03-12T00:35:01.274Z [app] info: SquareMetersRepository
+2021-03-12T00:35:01.350Z [app] info: SquareMetersRepository
+2021-03-12T00:35:01.351Z [app] info: Response: [object SequelizeInstance:Meters]
+2021-03-12T00:35:27.054Z [app] info: SquareMetersController
+2021-03-12T00:35:27.057Z [app] info: SquareMetersRepository
+2021-03-12T00:35:27.135Z [app] info: SquareMetersRepository
+2021-03-12T00:35:27.136Z [app] info: Response: [object SequelizeInstance:Meters]
+2021-03-12T00:35:50.296Z [app] info: SquareMetersController
+2021-03-12T00:35:50.299Z [app] info: SquareMetersRepository
+2021-03-12T00:35:50.379Z [app] info: SquareMetersRepository
+2021-03-12T00:35:50.379Z [app] info: Response: [object SequelizeInstance:Meters]
+2021-03-12T00:36:18.913Z [app] info: SquareMetersController
+2021-03-12T00:36:18.913Z [app] info: SquareMetersRepository
+2021-03-12T00:36:18.940Z [app] info: SquareMetersRepository
+2021-03-12T00:36:18.940Z [app] info: Response: [object SequelizeInstance:Meters]
+2021-03-12T00:36:42.945Z [app] info: SquareMetersController
+2021-03-12T00:36:42.948Z [app] info: SquareMetersRepository
+2021-03-12T00:36:43.025Z [app] info: SquareMetersRepository
+2021-03-12T00:36:43.027Z [app] info: Response: [object SequelizeInstance:Meters]
+2021-03-12T00:36:53.313Z [app] info: SquareMetersController
+2021-03-12T00:36:53.316Z [app] info: SquareMetersRepository
+2021-03-12T00:36:53.391Z [app] info: Response: undefined
+2021-03-12T00:37:08.613Z [app] info: SquareMetersController
+2021-03-12T00:37:08.618Z [app] info: SquareMetersRepository
+2021-03-12T00:37:08.692Z [app] info: SquareMetersRepository
+2021-03-12T00:37:08.693Z [app] info: Response: [object SequelizeInstance:Meters]
+2021-03-12T00:39:16.855Z [app] info: SquareMetersController
+2021-03-12T00:39:16.858Z [app] info: SquareMetersRepository
+2021-03-12T00:39:16.948Z [app] info: Response: undefined
+2021-03-12T00:39:18.438Z [app] info: SquareMetersController
+2021-03-12T00:39:18.439Z [app] info: SquareMetersRepository
+2021-03-12T00:39:18.444Z [app] info: Response: undefined
+2021-03-12T00:39:35.945Z [app] info: SquareMetersController
+2021-03-12T00:39:35.947Z [app] info: SquareMetersRepository
+2021-03-12T00:39:36.022Z [app] info: Response: undefined
+2021-03-12T00:40:09.049Z [app] info: SquareMetersController
+2021-03-12T00:40:09.054Z [app] info: SquareMetersRepository
+2021-03-12T00:40:09.137Z [app] info: Response: undefined
+2021-03-12T00:40:30.677Z [app] info: SquareMetersController
+2021-03-12T00:40:30.680Z [app] info: SquareMetersRepository
+2021-03-12T00:40:30.752Z [app] info: Response: undefined
+2021-03-12T00:40:41.031Z [app] info: SquareMetersController
+2021-03-12T00:40:41.037Z [app] info: SquareMetersRepository
+2021-03-12T00:40:41.131Z [app] info: Response: undefined
+2021-03-12T00:40:49.748Z [app] info: SquareMetersController
+2021-03-12T00:40:49.752Z [app] info: SquareMetersRepository
+2021-03-12T00:40:49.842Z [app] info: Response: undefined
+2021-03-12T00:41:33.177Z [app] info: SquareMetersController
+2021-03-12T00:41:33.183Z [app] info: SquareMetersRepository
+2021-03-12T00:41:33.260Z [app] info: Response: undefined
+2021-03-12T00:43:06.974Z [app] info: SquareMetersController
+2021-03-12T00:43:06.976Z [app] info: SquareMetersRepository
+2021-03-12T00:43:07.060Z [app] info: Response: undefined
+2021-03-12T00:43:32.469Z [app] info: SquareMetersController
+2021-03-12T00:43:32.472Z [app] info: SquareMetersRepository
+2021-03-12T00:43:32.549Z [app] info: SquareMetersRepository
+2021-03-12T00:43:32.549Z [app] info: Response: [object SequelizeInstance:meters]
+2021-03-12T00:44:05.344Z [app] info: SquareMetersController
+2021-03-12T00:44:05.347Z [app] info: SquareMetersRepository
+2021-03-12T00:44:05.414Z [app] info: SquareMetersRepository
+2021-03-12T00:44:05.414Z [app] info: Response: 10
+2021-03-12T00:44:11.776Z [app] info: SquareMetersController
+2021-03-12T00:44:11.779Z [app] info: SquareMetersRepository
+2021-03-12T00:44:11.846Z [app] info: SquareMetersRepository
+2021-03-12T00:44:11.847Z [app] info: Response: 10
+2021-03-12T00:44:12.604Z [app] info: SquareMetersController
+2021-03-12T00:44:12.604Z [app] info: SquareMetersRepository
+2021-03-12T00:44:12.610Z [app] info: SquareMetersRepository
+2021-03-12T00:44:12.610Z [app] info: Response: 10
+2021-03-12T00:44:33.225Z [app] info: SquareMetersController
+2021-03-12T00:44:33.227Z [app] info: SquareMetersRepository
+2021-03-12T00:44:33.293Z [app] info: SquareMetersRepository
+2021-03-12T00:44:33.294Z [app] info: Response: 10
+2021-03-12T00:44:34.193Z [app] info: SquareMetersController
+2021-03-12T00:44:34.193Z [app] info: SquareMetersRepository
+2021-03-12T00:44:34.198Z [app] info: SquareMetersRepository
+2021-03-12T00:44:34.199Z [app] info: Response: 10
+2021-03-12T00:45:17.694Z [app] info: SquareMetersController
+2021-03-12T00:45:17.698Z [app] info: SquareMetersRepository
+2021-03-12T00:45:17.768Z [app] info: SquareMetersRepository
+2021-03-12T00:45:17.768Z [app] info: Response: 10
+2021-03-12T00:45:18.652Z [app] info: SquareMetersController
+2021-03-12T00:45:18.653Z [app] info: SquareMetersRepository
+2021-03-12T00:45:18.657Z [app] info: SquareMetersRepository
+2021-03-12T00:45:18.658Z [app] info: Response: 10
+2021-03-12T00:45:21.587Z [app] info: SquareMetersController
+2021-03-12T00:45:21.588Z [app] info: SquareMetersRepository
+2021-03-12T00:45:21.605Z [app] info: SquareMetersRepository
+2021-03-12T00:45:21.606Z [app] info: Response: [object SequelizeInstance:meters]
+2021-03-12T00:45:23.647Z [app] info: SquareMetersController
+2021-03-12T00:45:23.647Z [app] info: SquareMetersRepository
+2021-03-12T00:45:23.650Z [app] info: SquareMetersRepository
+2021-03-12T00:45:23.651Z [app] info: Response: 10
+2021-03-12T00:45:57.137Z [app] info: SquareMetersController
+2021-03-12T00:45:57.140Z [app] info: SquareMetersRepository
+2021-03-12T00:45:57.214Z [app] info: SquareMetersRepository
+2021-03-12T00:45:57.215Z [app] info: Response: 10
+2021-03-12T00:48:31.760Z [app] info: SquareMetersController
+2021-03-12T00:48:31.762Z [app] info: SquareMetersRepository
+2021-03-12T00:48:31.836Z [app] info: SquareMetersRepository
+2021-03-12T00:48:31.836Z [app] info: Response: 10
+2021-03-12T00:49:28.273Z [app] info: SquareMetersController
+2021-03-12T00:49:28.277Z [app] info: SquareMetersRepository
+2021-03-12T00:49:28.348Z [app] info: SquareMetersRepository
+2021-03-12T00:49:28.349Z [app] info: Response: 10

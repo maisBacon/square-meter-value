@@ -1,7 +1,10 @@
+require('../bootstrap');
+
 module.exports = {
-  dialect: 'sqlite',
-  storage: './src/app/database/meters.sqlite',
+  url: process.env.DATABASE_URL,
   define: {
+    createdAt: 'created_at',
+    updatedAt: 'updated_at',
     timestamp: true,
     underscored: true,
   },
