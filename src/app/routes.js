@@ -5,6 +5,6 @@ const routes = Router();
 
 routes.get('/', SquareMetersController.show);
 
-routes.post('/value', SquareMetersController.store);
+routes.get('/value', SquareMetersController.store);
 
 module.exports = routes;
