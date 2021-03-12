@@ -5,10 +5,11 @@ require('../bootstrap');
 
 const db = new Sequelize(url, {
   define,
-  dialectOptions: {
-    ssl: {
-      require: true, // This will help you. But you will see nwe error
-      rejectUnauthorized: false, // This line will fix new error
+  options: {
+    native: true,
+    dialect: 'postgres',
+    dialectOptions: {
+      rejectUnauthorized: false,
     },
   },
 });

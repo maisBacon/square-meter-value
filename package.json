@@ -30,6 +30,7 @@
     "pg-hstore": "^2.3.3",
     "sequelize": "^6.5.0",
     "sqlite3": "^5.0.2",
-    "winston": "^3.3.3"
+    "winston": "^3.3.3",
+    "sequelize-cli": "^6.2.0"
   }
 }
