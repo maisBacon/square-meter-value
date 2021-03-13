@@ -5,21 +5,19 @@ class SquareMetersRepository {
   async get() {
     logger.info('SquareMetersRepository');
     try {
-      const res = await SquareMetersModel.findOne();
-      logger.info('SquareMetersRepository', res.value);
-      return res;
+      return await SquareMetersModel.findOne();
     } catch (e) {
-      console.log(e);
+      logger.error('database =>', e);
+      throw new Error(e);
     }
   }
 
   async create() {
     logger.info('SquareMetersRepository');
     try {
-      const res = await SquareMetersModel.create({ value: 10 });
-      logger.info('SquareMetersRepository', res.value);
-      return res;
+      return await SquareMetersModel.create({ value: 10 });
     } catch (e) {
+      logger.error('database =>', e);
       console.log(e);
     }
   }

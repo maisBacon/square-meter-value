@@ -463,3 +463,106 @@
 2021-03-12T01:49:43.666Z [app] info: SquareMetersRepository
 2021-03-12T01:49:43.736Z [app] info: SquareMetersRepository
 2021-03-12T01:49:43.737Z [app] info: Response: 10
+2021-03-13T18:45:16.573Z [app] info: SquareMetersController
+2021-03-13T18:45:16.576Z [app] info: SquareMetersRepository
+2021-03-13T18:45:16.821Z [app] info: SquareMetersRepository
+2021-03-13T18:45:16.821Z [app] info: Response: 10
+2021-03-13T18:46:42.081Z [app] info: SquareMetersController
+2021-03-13T18:46:42.083Z [app] info: SquareMetersRepository
+2021-03-13T18:46:42.160Z [app] info: SquareMetersRepository
+2021-03-13T18:46:42.162Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-13T18:47:20.400Z [app] info: SquareMetersController
+2021-03-13T18:47:20.403Z [app] info: SquareMetersRepository
+2021-03-13T18:47:20.470Z [app] info: SquareMetersRepository
+2021-03-13T18:47:20.472Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-13T18:47:50.145Z [app] info: SquareMetersController
+2021-03-13T18:47:50.147Z [app] info: SquareMetersRepository
+2021-03-13T18:47:50.225Z [app] info: SquareMetersRepository
+2021-03-13T18:47:50.227Z [app] info: Error: TypeError: Cannot read property 'value' of undefined
+2021-03-13T18:48:05.133Z [app] info: SquareMetersController
+2021-03-13T18:48:05.137Z [app] info: SquareMetersRepository
+2021-03-13T18:48:05.205Z [app] info: SquareMetersRepository
+2021-03-13T18:48:05.207Z [app] info: -Error: TypeError: Cannot read property 'value' of undefined
+2021-03-13T18:48:17.509Z [app] info: SquareMetersController
+2021-03-13T18:48:17.511Z [app] info: SquareMetersRepository
+2021-03-13T18:48:17.586Z [app] info: SquareMetersRepository
+2021-03-13T18:48:17.589Z [app] info: Response: undefined
+2021-03-13T18:48:17.589Z [app] info: -Error: TypeError: Cannot read property 'value' of undefined
+2021-03-13T19:41:39.749Z [app] info: SquareMetersController
+2021-03-13T19:41:39.751Z [app] info: SquareMetersRepository
+2021-03-13T19:41:39.823Z [app] info: SquareMetersRepository
+2021-03-13T19:41:39.826Z [app] info: Response: undefined
+2021-03-13T19:42:21.234Z [app] info: SquareMetersController
+2021-03-13T19:42:21.236Z [app] info: SquareMetersRepository
+2021-03-13T19:42:21.304Z [app] info: SquareMetersRepository
+2021-03-13T19:42:21.305Z [app] info: Response: Error: deu ruim
+2021-03-13T19:43:20.943Z [app] info: SquareMetersController
+2021-03-13T19:43:20.946Z [app] info: SquareMetersRepository
+2021-03-13T19:43:21.037Z [app] info: SquareMetersRepository
+2021-03-13T19:43:21.037Z [app] info: -Error: Error: Error: deu ruim
+2021-03-13T19:44:23.812Z [app] info: SquareMetersController
+2021-03-13T19:44:23.815Z [app] info: SquareMetersRepository
+2021-03-13T19:44:23.885Z [app] info: SquareMetersRepository
+2021-03-13T19:44:23.885Z [app] info: -Error: Error: [object Object]
+2021-03-13T19:44:41.469Z [app] info: SquareMetersController
+2021-03-13T19:44:41.472Z [app] info: SquareMetersRepository
+2021-03-13T19:44:41.539Z [app] info: SquareMetersRepository
+2021-03-13T19:44:41.540Z [app] info: -Error: Error: [object Object]
+2021-03-13T19:44:59.312Z [app] info: SquareMetersController
+2021-03-13T19:44:59.314Z [app] info: SquareMetersRepository
+2021-03-13T19:44:59.386Z [app] info: SquareMetersRepository
+2021-03-13T19:44:59.387Z [app] info: -Error: [object Object]
+2021-03-13T19:45:19.422Z [app] info: SquareMetersController
+2021-03-13T19:45:19.424Z [app] info: SquareMetersRepository
+2021-03-13T19:45:19.492Z [app] info: SquareMetersRepository
+2021-03-13T19:45:19.492Z [app] info: -Error: Error: erro jogado
+2021-03-13T19:46:03.742Z [app] info: SquareMetersController
+2021-03-13T19:46:03.745Z [app] info: SquareMetersRepository
+2021-03-13T19:46:03.815Z [app] info: SquareMetersRepository
+2021-03-13T19:46:03.815Z [app] info: Response: undefined
+2021-03-13T19:46:03.815Z [app] info: -Error: Cannot read property 'value' of undefined
+2021-03-13T19:46:38.744Z [app] info: SquareMetersController
+2021-03-13T19:46:38.746Z [app] info: SquareMetersRepository
+2021-03-13T19:46:38.819Z [app] info: SquareMetersRepository
+2021-03-13T19:46:38.819Z [app] info: -Error: Error: erro jogado
+2021-03-13T19:46:57.920Z [app] info: SquareMetersController
+2021-03-13T19:46:57.922Z [app] info: SquareMetersRepository
+2021-03-13T19:46:57.990Z [app] info: SquareMetersRepository
+2021-03-13T19:46:57.990Z [app] info: -Error: Error: erro jogado!
+2021-03-13T19:48:05.889Z [app] info: SquareMetersController
+2021-03-13T19:48:05.892Z [app] info: SquareMetersRepository
+2021-03-13T19:48:05.987Z [app] info: SquareMetersRepository
+2021-03-13T19:48:05.987Z [app] info: SquareMetersRepository erro jogado
+2021-03-13T19:48:05.987Z [app] info: -Error: Error: erro jogado!
+2021-03-13T19:51:03.656Z [app] info: SquareMetersController
+2021-03-13T19:51:03.658Z [app] info: SquareMetersRepository
+2021-03-13T19:51:03.730Z [app] info: SquareMetersRepository
+2021-03-13T19:51:03.730Z [app] info: response: [object SequelizeInstance:meters]
+2021-03-13T19:53:33.154Z [app] info: SquareMetersController
+2021-03-13T19:53:33.158Z [app] info: SquareMetersRepository
+2021-03-13T19:53:33.191Z [app] info: error access db connect ECONNREFUSED 127.0.0.1:5432
+2021-03-13T19:53:33.191Z [app] info: error: SequelizeConnectionRefusedError: connect ECONNREFUSED 127.0.0.1:5432
+2021-03-13T19:54:00.226Z [app] info: SquareMetersController
+2021-03-13T19:54:00.230Z [app] info: SquareMetersRepository
+2021-03-13T19:54:00.268Z [app] info: error access db: connect ECONNREFUSED 127.0.0.1:5432
+2021-03-13T19:54:00.269Z [app] info: error: SequelizeConnectionRefusedError: connect ECONNREFUSED 127.0.0.1:5432
+2021-03-13T19:54:13.956Z [app] info: SquareMetersController
+2021-03-13T19:54:13.958Z [app] info: SquareMetersRepository
+2021-03-13T19:54:13.994Z [app] error: access db: connect ECONNREFUSED 127.0.0.1:5432
+2021-03-13T19:54:13.995Z [app] info: error: SequelizeConnectionRefusedError: connect ECONNREFUSED 127.0.0.1:5432
+2021-03-13T19:54:41.724Z [app] info: SquareMetersController
+2021-03-13T19:54:41.727Z [app] info: SquareMetersRepository
+2021-03-13T19:54:41.764Z [app] error: reject database connect ECONNREFUSED 127.0.0.1:5432
+2021-03-13T19:54:41.764Z [app] info: error: SequelizeConnectionRefusedError: connect ECONNREFUSED 127.0.0.1:5432
+2021-03-13T19:55:48.231Z [app] info: SquareMetersController
+2021-03-13T19:55:48.235Z [app] info: SquareMetersRepository
+2021-03-13T19:55:48.272Z [app] error: database => connect ECONNREFUSED 127.0.0.1:5432
+2021-03-13T19:55:48.272Z [app] error: error SequelizeConnectionRefusedError: connect ECONNREFUSED 127.0.0.1:5432
+2021-03-13T19:56:49.238Z [app] info: SquareMetersController
+2021-03-13T19:56:49.240Z [app] info: SquareMetersRepository
+2021-03-13T19:56:49.272Z [app] error: database => connect ECONNREFUSED 127.0.0.1:5432
+2021-03-13T19:56:49.272Z [app] error: generic error => SequelizeConnectionRefusedError: connect ECONNREFUSED 127.0.0.1:5432
+2021-03-13T19:57:02.848Z [app] info: SquareMetersController
+2021-03-13T19:57:02.850Z [app] info: SquareMetersRepository
+2021-03-13T19:57:02.888Z [app] error: database => connect ECONNREFUSED 127.0.0.1:5432
+2021-03-13T19:57:02.888Z [app] error: generic => SequelizeConnectionRefusedError: connect ECONNREFUSED 127.0.0.1:5432

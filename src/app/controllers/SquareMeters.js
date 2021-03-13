@@ -2,29 +2,29 @@ const SquareMetersRepository = require('../repositories/square_meters_value');
 const logger = require('../utils/logger');
 
 class SquareMetersController {
-  show(req, res) {
+  async show(req, res) {
     logger.info('SquareMetersController');
     SquareMetersRepository.get()
       .then(response => {
-        logger.info(`Response: ${response.value}`);
-        return res.status(200).send({ value: response });
+        logger.info(`response => ${response}`);
+        return res.status(200).send({ value: response.value });
       })
       .catch(e => {
-        logger.info(`Error: ${e}`);
-        return res.status(500).send(e.message);
+        logger.error(`=> ${e.message}`);
+        return res.status(500).send({ error: 'generic error' });
       });
   }
 
-  store(req, res) {
+  async store(req, res) {
     logger.info('SquareMetersController');
     SquareMetersRepository.create()
       .then(response => {
-        logger.info(`Response: ${response}`);
+        logger.info(`response => ${response}`);
         return res.status(200).send({ value: response });
       })
       .catch(e => {
-        logger.info(`error: ${e}`);
-        return res.status(200).send({ value: e });
+        logger.error(`=> ${e.message}`);
+        return res.status(500).send({ error: 'generic error' });
       });
   }
 }
