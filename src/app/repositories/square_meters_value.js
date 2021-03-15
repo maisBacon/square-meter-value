@@ -12,10 +12,10 @@ class SquareMetersRepository {
     }
   }
 
-  async create() {
+  async create(value = 10) {
     logger.info('SquareMetersRepository');
     try {
-      return await SquareMetersModel.create({ value: 10 });
+      return await SquareMetersModel.create({ value });
     } catch (e) {
       logger.error('database =>', e);
       console.log(e);

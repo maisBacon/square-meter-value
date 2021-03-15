@@ -42,12 +42,15 @@ yarn sequelize db:migrate:undo
 
 ## Rodando o projeto
 
-- `yarn dev` inicia desenvolvimento
-- `yarn start` inicia o servidor
+- `yarn dev` em desenvolvimento
+- `yarn start` em produção
 
 ## Rodando os testes
 
--
+- yarn test
+
+já está configurado para rodar a
+migrate por sqlite e desfazer ao finalizar
 
 ## Postman
 

@@ -17,7 +17,7 @@ class SquareMetersController {
 
   async store(req, res) {
     logger.info('SquareMetersController');
-    SquareMetersRepository.create()
+    SquareMetersRepository.create(req.body.value)
       .then(response => {
         logger.info(`response => ${response}`);
         return res.status(200).send({ value: response });

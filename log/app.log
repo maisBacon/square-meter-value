@@ -566,3 +566,328 @@
 2021-03-13T19:57:02.850Z [app] info: SquareMetersRepository
 2021-03-13T19:57:02.888Z [app] error: database => connect ECONNREFUSED 127.0.0.1:5432
 2021-03-13T19:57:02.888Z [app] error: generic => SequelizeConnectionRefusedError: connect ECONNREFUSED 127.0.0.1:5432
+2021-03-15T00:09:23.445Z [app] info: SquareMetersController
+2021-03-15T00:09:23.447Z [app] info: SquareMetersRepository
+2021-03-15T00:09:23.567Z [app] error: database => SQLITE_ERROR: no such table: meters
+2021-03-15T00:09:23.567Z [app] error: => SequelizeDatabaseError: SQLITE_ERROR: no such table: meters
+2021-03-15T00:14:20.641Z [app] info: SquareMetersController
+2021-03-15T00:14:20.643Z [app] info: SquareMetersRepository
+2021-03-15T00:14:20.665Z [app] error: database => SQLITE_ERROR: no such table: meters
+2021-03-15T00:14:20.666Z [app] error: => SequelizeDatabaseError: SQLITE_ERROR: no such table: meters
+2021-03-15T00:15:28.337Z [app] info: SquareMetersController
+2021-03-15T00:15:28.339Z [app] info: SquareMetersRepository
+2021-03-15T00:15:28.494Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T00:15:29.681Z [app] info: SquareMetersController
+2021-03-15T00:15:29.681Z [app] info: SquareMetersRepository
+2021-03-15T00:15:29.684Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T00:15:30.567Z [app] info: SquareMetersController
+2021-03-15T00:15:30.568Z [app] info: SquareMetersRepository
+2021-03-15T00:15:30.572Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T00:28:35.962Z [app] info: SquareMetersController
+2021-03-15T00:28:35.963Z [app] info: SquareMetersRepository
+2021-03-15T00:28:36.016Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T00:28:37.346Z [app] info: SquareMetersController
+2021-03-15T00:28:37.346Z [app] info: SquareMetersRepository
+2021-03-15T00:28:37.350Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T00:28:43.438Z [app] info: SquareMetersController
+2021-03-15T00:28:43.439Z [app] info: SquareMetersRepository
+2021-03-15T00:28:43.443Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T00:37:09.862Z [app] info: SquareMetersController
+2021-03-15T00:37:09.864Z [app] info: SquareMetersRepository
+2021-03-15T00:37:09.912Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T00:37:10.874Z [app] info: SquareMetersController
+2021-03-15T00:37:10.874Z [app] info: SquareMetersRepository
+2021-03-15T00:37:10.879Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T00:38:32.280Z [app] info: SquareMetersController
+2021-03-15T00:38:32.281Z [app] info: SquareMetersRepository
+2021-03-15T00:38:32.331Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T00:39:09.656Z [app] info: SquareMetersController
+2021-03-15T00:39:09.658Z [app] info: SquareMetersRepository
+2021-03-15T00:39:09.691Z [app] error: database => SQLITE_ERROR: no such table: meters
+2021-03-15T00:39:09.691Z [app] error: => SequelizeDatabaseError: SQLITE_ERROR: no such table: meters
+2021-03-15T00:40:09.280Z [app] info: SquareMetersController
+2021-03-15T00:40:09.282Z [app] info: SquareMetersRepository
+2021-03-15T00:40:09.302Z [app] error: database => SQLITE_ERROR: no such column: createdAt
+2021-03-15T00:40:09.302Z [app] error: => SequelizeDatabaseError: SQLITE_ERROR: no such column: createdAt
+2021-03-15T00:40:16.216Z [app] info: SquareMetersController
+2021-03-15T00:40:16.217Z [app] info: SquareMetersRepository
+2021-03-15T00:40:16.219Z [app] error: database => SQLITE_ERROR: no such column: createdAt
+2021-03-15T00:40:16.220Z [app] error: => SequelizeDatabaseError: SQLITE_ERROR: no such column: createdAt
+2021-03-15T00:51:28.835Z [app] info: SquareMetersController
+2021-03-15T00:51:28.836Z [app] info: SquareMetersRepository
+2021-03-15T00:51:28.883Z [app] error: database => relation "meters" does not exist
+2021-03-15T00:51:28.883Z [app] error: => SequelizeDatabaseError: relation "meters" does not exist
+2021-03-15T00:51:30.422Z [app] info: SquareMetersController
+2021-03-15T00:51:30.422Z [app] info: SquareMetersRepository
+2021-03-15T00:51:30.426Z [app] error: database => relation "meters" does not exist
+2021-03-15T00:51:30.426Z [app] error: => SequelizeDatabaseError: relation "meters" does not exist
+2021-03-15T00:52:14.200Z [app] info: SquareMetersController
+2021-03-15T00:52:14.202Z [app] info: SquareMetersRepository
+2021-03-15T00:52:14.248Z [app] error: database => relation "meters" does not exist
+2021-03-15T00:52:14.248Z [app] error: => SequelizeDatabaseError: relation "meters" does not exist
+2021-03-15T00:52:15.350Z [app] info: SquareMetersController
+2021-03-15T00:52:15.350Z [app] info: SquareMetersRepository
+2021-03-15T00:52:15.354Z [app] error: database => relation "meters" does not exist
+2021-03-15T00:52:15.354Z [app] error: => SequelizeDatabaseError: relation "meters" does not exist
+2021-03-15T00:52:29.663Z [app] info: SquareMetersController
+2021-03-15T00:52:29.663Z [app] info: SquareMetersRepository
+2021-03-15T00:52:29.672Z [app] error: database => relation "meters" does not exist
+2021-03-15T00:52:29.672Z [app] error: => SequelizeDatabaseError: relation "meters" does not exist
+2021-03-15T00:54:47.245Z [app] info: SquareMetersController
+2021-03-15T00:54:47.246Z [app] info: SquareMetersRepository
+2021-03-15T00:54:47.294Z [app] error: database => relation "meters" does not exist
+2021-03-15T00:54:47.294Z [app] error: => SequelizeDatabaseError: relation "meters" does not exist
+2021-03-15T00:55:05.156Z [app] info: SquareMetersController
+2021-03-15T00:55:05.157Z [app] info: SquareMetersRepository
+2021-03-15T00:55:05.201Z [app] error: database => relation "meters" does not exist
+2021-03-15T00:55:05.201Z [app] error: => SequelizeDatabaseError: relation "meters" does not exist
+2021-03-15T00:57:16.899Z [app] info: SquareMetersController
+2021-03-15T00:57:16.901Z [app] info: SquareMetersRepository
+2021-03-15T00:57:16.947Z [app] info: response => null
+2021-03-15T00:57:16.948Z [app] error: => Cannot read property 'value' of null
+2021-03-15T00:57:18.258Z [app] info: SquareMetersController
+2021-03-15T00:57:18.259Z [app] info: SquareMetersRepository
+2021-03-15T00:57:18.262Z [app] info: response => null
+2021-03-15T00:57:18.262Z [app] error: => Cannot read property 'value' of null
+2021-03-15T00:59:00.686Z [app] info: SquareMetersController
+2021-03-15T00:59:00.687Z [app] info: SquareMetersRepository
+2021-03-15T00:59:00.747Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T00:59:07.618Z [app] info: SquareMetersController
+2021-03-15T00:59:07.619Z [app] info: SquareMetersRepository
+2021-03-15T00:59:07.627Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:00:37.134Z [app] info: SquareMetersController
+2021-03-15T01:00:37.136Z [app] info: SquareMetersRepository
+2021-03-15T01:00:37.162Z [app] error: database => SQLITE_ERROR: no such column: createdAt
+2021-03-15T01:00:37.162Z [app] error: => SequelizeDatabaseError: SQLITE_ERROR: no such column: createdAt
+2021-03-15T01:00:59.531Z [app] info: SquareMetersController
+2021-03-15T01:00:59.534Z [app] info: SquareMetersRepository
+2021-03-15T01:00:59.557Z [app] error: database => SQLITE_ERROR: no such column: createdAt
+2021-03-15T01:00:59.557Z [app] error: => SequelizeDatabaseError: SQLITE_ERROR: no such column: createdAt
+2021-03-15T01:01:04.671Z [app] info: SquareMetersController
+2021-03-15T01:01:04.671Z [app] info: SquareMetersRepository
+2021-03-15T01:01:04.674Z [app] error: database => SQLITE_ERROR: no such column: createdAt
+2021-03-15T01:01:04.674Z [app] error: => SequelizeDatabaseError: SQLITE_ERROR: no such column: createdAt
+2021-03-15T01:01:06.427Z [app] info: SquareMetersController
+2021-03-15T01:01:06.427Z [app] info: SquareMetersRepository
+2021-03-15T01:01:06.430Z [app] error: database => SQLITE_ERROR: no such column: createdAt
+2021-03-15T01:01:06.430Z [app] error: => SequelizeDatabaseError: SQLITE_ERROR: no such column: createdAt
+2021-03-15T01:01:19.599Z [app] info: SquareMetersController
+2021-03-15T01:01:19.601Z [app] info: SquareMetersRepository
+2021-03-15T01:01:19.624Z [app] error: database => SQLITE_ERROR: no such table: meters
+2021-03-15T01:01:19.624Z [app] error: => SequelizeDatabaseError: SQLITE_ERROR: no such table: meters
+2021-03-15T01:01:54.319Z [app] info: SquareMetersController
+2021-03-15T01:01:54.321Z [app] info: SquareMetersRepository
+2021-03-15T01:01:54.342Z [app] error: database => SQLITE_ERROR: no such table: meters
+2021-03-15T01:01:54.343Z [app] error: => SequelizeDatabaseError: SQLITE_ERROR: no such table: meters
+2021-03-15T01:01:59.836Z [app] info: SquareMetersController
+2021-03-15T01:01:59.838Z [app] info: SquareMetersRepository
+2021-03-15T01:01:59.845Z [app] error: database => SQLITE_ERROR: no such table: meters
+2021-03-15T01:01:59.848Z [app] info: response => undefined
+2021-03-15T01:02:05.709Z [app] info: SquareMetersController
+2021-03-15T01:02:05.710Z [app] info: SquareMetersRepository
+2021-03-15T01:02:05.714Z [app] error: database => SQLITE_ERROR: no such table: meters
+2021-03-15T01:02:05.714Z [app] info: response => undefined
+2021-03-15T01:02:08.099Z [app] info: SquareMetersController
+2021-03-15T01:02:08.099Z [app] info: SquareMetersRepository
+2021-03-15T01:02:08.101Z [app] error: database => SQLITE_ERROR: no such table: meters
+2021-03-15T01:02:08.101Z [app] error: => SequelizeDatabaseError: SQLITE_ERROR: no such table: meters
+2021-03-15T01:02:43.260Z [app] info: SquareMetersController
+2021-03-15T01:02:43.261Z [app] info: SquareMetersRepository
+2021-03-15T01:02:43.281Z [app] error: database => SQLITE_ERROR: no such table: meters
+2021-03-15T01:02:43.281Z [app] error: => SequelizeDatabaseError: SQLITE_ERROR: no such table: meters
+2021-03-15T01:02:51.928Z [app] info: SquareMetersController
+2021-03-15T01:02:51.928Z [app] info: SquareMetersRepository
+2021-03-15T01:02:51.938Z [app] error: database => SQLITE_ERROR: no such table: meters
+2021-03-15T01:02:51.948Z [app] info: response => undefined
+2021-03-15T01:04:06.922Z [app] info: SquareMetersController
+2021-03-15T01:04:06.924Z [app] info: SquareMetersRepository
+2021-03-15T01:04:06.984Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:04:17.665Z [app] info: SquareMetersController
+2021-03-15T01:04:17.666Z [app] info: SquareMetersRepository
+2021-03-15T01:04:17.682Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:04:55.008Z [app] info: SquareMetersController
+2021-03-15T01:04:55.010Z [app] info: SquareMetersRepository
+2021-03-15T01:04:55.035Z [app] error: database => SQLITE_ERROR: no such table: meters
+2021-03-15T01:04:55.038Z [app] info: response => undefined
+2021-03-15T01:07:10.147Z [app] info: SquareMetersController
+2021-03-15T01:07:10.149Z [app] info: SquareMetersRepository
+2021-03-15T01:07:10.171Z [app] error: database => SQLITE_ERROR: table meters has no column named createdAt
+2021-03-15T01:07:10.173Z [app] info: response => undefined
+2021-03-15T01:07:11.463Z [app] info: SquareMetersController
+2021-03-15T01:07:11.464Z [app] info: SquareMetersRepository
+2021-03-15T01:07:11.467Z [app] error: database => SQLITE_ERROR: table meters has no column named createdAt
+2021-03-15T01:07:11.468Z [app] info: response => undefined
+2021-03-15T01:10:07.984Z [app] info: SquareMetersController
+2021-03-15T01:10:07.986Z [app] info: SquareMetersRepository
+2021-03-15T01:10:08.017Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:10:21.082Z [app] info: SquareMetersController
+2021-03-15T01:10:21.082Z [app] info: SquareMetersRepository
+2021-03-15T01:10:21.091Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:10:44.256Z [app] info: SquareMetersController
+2021-03-15T01:10:44.257Z [app] info: SquareMetersRepository
+2021-03-15T01:10:44.279Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:10:45.223Z [app] info: SquareMetersController
+2021-03-15T01:10:45.224Z [app] info: SquareMetersRepository
+2021-03-15T01:10:45.226Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:11:01.541Z [app] info: SquareMetersController
+2021-03-15T01:11:01.542Z [app] info: SquareMetersRepository
+2021-03-15T01:11:01.589Z [app] error: database => relation "meters" does not exist
+2021-03-15T01:11:01.590Z [app] error: => SequelizeDatabaseError: relation "meters" does not exist
+2021-03-15T01:11:06.719Z [app] info: SquareMetersController
+2021-03-15T01:11:06.719Z [app] info: SquareMetersRepository
+2021-03-15T01:11:06.727Z [app] error: database => relation "meters" does not exist
+2021-03-15T01:11:06.731Z [app] info: response => undefined
+2021-03-15T01:11:28.678Z [app] info: SquareMetersController
+2021-03-15T01:11:28.681Z [app] info: SquareMetersRepository
+2021-03-15T01:11:28.738Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:11:32.075Z [app] info: SquareMetersController
+2021-03-15T01:11:32.076Z [app] info: SquareMetersRepository
+2021-03-15T01:11:32.082Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:11:34.051Z [app] info: SquareMetersController
+2021-03-15T01:11:34.051Z [app] info: SquareMetersRepository
+2021-03-15T01:11:34.054Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:11:34.820Z [app] info: SquareMetersController
+2021-03-15T01:11:34.820Z [app] info: SquareMetersRepository
+2021-03-15T01:11:34.822Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:11:43.872Z [app] info: SquareMetersController
+2021-03-15T01:11:43.874Z [app] info: SquareMetersRepository
+2021-03-15T01:11:43.894Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:11:44.788Z [app] info: SquareMetersController
+2021-03-15T01:11:44.789Z [app] info: SquareMetersRepository
+2021-03-15T01:11:44.791Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:11:55.310Z [app] info: SquareMetersController
+2021-03-15T01:11:55.312Z [app] info: SquareMetersRepository
+2021-03-15T01:11:55.365Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:11:56.189Z [app] info: SquareMetersController
+2021-03-15T01:11:56.189Z [app] info: SquareMetersRepository
+2021-03-15T01:11:56.194Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:12:29.383Z [app] info: SquareMetersController
+2021-03-15T01:12:29.385Z [app] info: SquareMetersRepository
+2021-03-15T01:12:29.408Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:13:44.679Z [app] info: SquareMetersController
+2021-03-15T01:13:44.681Z [app] info: SquareMetersRepository
+2021-03-15T01:13:44.714Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:14:49.564Z [app] info: SquareMetersController
+2021-03-15T01:14:49.565Z [app] info: SquareMetersRepository
+2021-03-15T01:14:49.606Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:15:09.666Z [app] info: SquareMetersController
+2021-03-15T01:15:09.668Z [app] info: SquareMetersRepository
+2021-03-15T01:15:09.701Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:15:18.649Z [app] info: SquareMetersController
+2021-03-15T01:15:18.651Z [app] info: SquareMetersRepository
+2021-03-15T01:15:18.684Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:15:43.570Z [app] info: SquareMetersController
+2021-03-15T01:15:43.571Z [app] info: SquareMetersRepository
+2021-03-15T01:15:43.603Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:16:01.945Z [app] info: SquareMetersController
+2021-03-15T01:16:01.946Z [app] info: SquareMetersRepository
+2021-03-15T01:16:01.988Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:16:23.477Z [app] info: SquareMetersController
+2021-03-15T01:16:23.479Z [app] info: SquareMetersRepository
+2021-03-15T01:16:23.514Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:16:50.227Z [app] info: SquareMetersController
+2021-03-15T01:16:50.229Z [app] info: SquareMetersRepository
+2021-03-15T01:16:50.260Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:17:25.524Z [app] info: SquareMetersController
+2021-03-15T01:17:25.525Z [app] info: SquareMetersRepository
+2021-03-15T01:17:25.558Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:17:46.197Z [app] info: SquareMetersController
+2021-03-15T01:17:46.198Z [app] info: SquareMetersRepository
+2021-03-15T01:17:46.230Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:18:00.149Z [app] info: SquareMetersController
+2021-03-15T01:18:00.151Z [app] info: SquareMetersRepository
+2021-03-15T01:18:00.190Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:18:52.228Z [app] info: SquareMetersController
+2021-03-15T01:18:52.230Z [app] info: SquareMetersRepository
+2021-03-15T01:18:52.262Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:19:33.597Z [app] info: SquareMetersController
+2021-03-15T01:19:33.603Z [app] info: SquareMetersRepository
+2021-03-15T01:19:33.675Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:23:14.642Z [app] info: SquareMetersController
+2021-03-15T01:23:14.644Z [app] info: SquareMetersRepository
+2021-03-15T01:23:14.691Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:23:15.954Z [app] info: SquareMetersController
+2021-03-15T01:23:15.954Z [app] info: SquareMetersRepository
+2021-03-15T01:23:15.958Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:23:22.229Z [app] info: SquareMetersController
+2021-03-15T01:23:22.231Z [app] info: SquareMetersRepository
+2021-03-15T01:23:22.263Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:23:30.957Z [app] info: SquareMetersController
+2021-03-15T01:23:30.959Z [app] info: SquareMetersRepository
+2021-03-15T01:23:31.003Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:23:31.834Z [app] info: SquareMetersController
+2021-03-15T01:23:31.835Z [app] info: SquareMetersRepository
+2021-03-15T01:23:31.838Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:26:55.982Z [app] info: SquareMetersController
+2021-03-15T01:26:55.984Z [app] info: SquareMetersRepository
+2021-03-15T01:26:56.017Z [app] info: response => null
+2021-03-15T01:26:56.017Z [app] error: => Cannot read property 'value' of null
+2021-03-15T01:27:08.760Z [app] info: SquareMetersController
+2021-03-15T01:27:08.762Z [app] info: SquareMetersRepository
+2021-03-15T01:27:08.794Z [app] info: response => null
+2021-03-15T01:27:08.794Z [app] error: => Cannot read property 'value' of null
+2021-03-15T01:27:18.578Z [app] info: SquareMetersController
+2021-03-15T01:27:18.580Z [app] info: SquareMetersRepository
+2021-03-15T01:27:18.613Z [app] info: response => null
+2021-03-15T01:27:18.613Z [app] error: => Cannot read property 'value' of null
+2021-03-15T01:27:49.727Z [app] info: SquareMetersController
+2021-03-15T01:27:49.729Z [app] info: SquareMetersRepository
+2021-03-15T01:27:49.772Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:27:50.786Z [app] info: SquareMetersController
+2021-03-15T01:27:50.786Z [app] info: SquareMetersRepository
+2021-03-15T01:27:50.791Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:27:58.400Z [app] info: SquareMetersController
+2021-03-15T01:27:58.402Z [app] info: SquareMetersRepository
+2021-03-15T01:27:58.433Z [app] info: response => null
+2021-03-15T01:27:58.433Z [app] error: => Cannot read property 'value' of null
+2021-03-15T01:28:55.063Z [app] info: SquareMetersController
+2021-03-15T01:28:55.064Z [app] info: SquareMetersRepository
+2021-03-15T01:28:55.096Z [app] info: response => null
+2021-03-15T01:28:55.096Z [app] error: => Cannot read property 'value' of null
+2021-03-15T01:29:37.418Z [app] info: SquareMetersController
+2021-03-15T01:29:37.419Z [app] info: SquareMetersRepository
+2021-03-15T01:29:37.451Z [app] info: response => null
+2021-03-15T01:29:37.451Z [app] error: => Cannot read property 'value' of null
+2021-03-15T01:30:42.215Z [app] info: SquareMetersController
+2021-03-15T01:30:42.216Z [app] info: SquareMetersRepository
+2021-03-15T01:30:42.248Z [app] info: response => null
+2021-03-15T01:30:42.248Z [app] error: => Cannot read property 'value' of null
+2021-03-15T01:31:41.110Z [app] info: SquareMetersController
+2021-03-15T01:31:41.112Z [app] info: SquareMetersRepository
+2021-03-15T01:31:41.162Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:31:41.183Z [app] info: SquareMetersController
+2021-03-15T01:31:41.183Z [app] info: SquareMetersRepository
+2021-03-15T01:31:41.189Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:32:18.185Z [app] info: SquareMetersController
+2021-03-15T01:32:18.186Z [app] info: SquareMetersRepository
+2021-03-15T01:32:18.234Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:32:18.241Z [app] info: SquareMetersController
+2021-03-15T01:32:18.241Z [app] info: SquareMetersRepository
+2021-03-15T01:32:18.247Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:32:52.239Z [app] info: SquareMetersController
+2021-03-15T01:32:52.241Z [app] info: SquareMetersRepository
+2021-03-15T01:32:52.292Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:32:52.300Z [app] info: SquareMetersController
+2021-03-15T01:32:52.300Z [app] info: SquareMetersRepository
+2021-03-15T01:32:52.306Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:34:11.194Z [app] info: SquareMetersController
+2021-03-15T01:34:11.196Z [app] info: SquareMetersRepository
+2021-03-15T01:34:11.252Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:34:11.265Z [app] info: SquareMetersController
+2021-03-15T01:34:11.266Z [app] info: SquareMetersRepository
+2021-03-15T01:34:11.273Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:35:10.068Z [app] info: SquareMetersController
+2021-03-15T01:35:10.070Z [app] info: SquareMetersRepository
+2021-03-15T01:35:10.121Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:35:10.127Z [app] info: SquareMetersController
+2021-03-15T01:35:10.127Z [app] info: SquareMetersRepository
+2021-03-15T01:35:10.133Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:35:23.746Z [app] info: SquareMetersController
+2021-03-15T01:35:23.748Z [app] info: SquareMetersRepository
+2021-03-15T01:35:23.799Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:35:23.809Z [app] info: SquareMetersController
+2021-03-15T01:35:23.810Z [app] info: SquareMetersRepository
+2021-03-15T01:35:23.817Z [app] info: response => [object SequelizeInstance:meters]
+2021-03-15T01:35:35.981Z [app] info: SquareMetersController
+2021-03-15T01:35:35.983Z [app] info: SquareMetersRepository
+2021-03-15T01:35:36.031Z [app] info: response => [object SequelizeInstance:meters]
