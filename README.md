@@ -54,4 +54,10 @@ migrate por sqlite e desfazer ao finalizar
 
 ## Postman
 
-- Segue arquivo para importar via postman está na pasta postman na raiz do projeto. Nela contém todas as chamadas da aplicação.
+- https://www.getpostman.com/collections/953ba634109586d783be
+
+basta importar essa url em import > link > colar endereço
+
+## heroku 
+
+https://square-meter-value.herokuapp.com/
